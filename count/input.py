@@ -1,7 +1,7 @@
 import json
 from collections import Counter
 
-OUTPUT_FILE = "reddit_scraper.posts.json"
+OUTPUT_FILE = "./data/scraped_posts.json"
 
 def count_scraped_data(file_path):
     try:

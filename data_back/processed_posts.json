@@ -1,0 +1,149 @@
+[
+    {
+        "id": "1grvuzl",
+        "title": "3PL Question",
+        "content": "I'm seeking a reputable 3PL company for my online clothing brand's e-commerce store. Ideally, they should be based in the US and offer international shipping. I typically have 200-1000 items across about 15-20 SKUs. My manufacturer will send the items in one shipment for them to store and ship as required. What are some recommended options?",
+        "subreddit": "logistics",
+        "author": "InternationalSkin302",
+        "upvotes": 2,
+        "category": "Third-Party Logistics (3PL)",
+        "created_utc": "2024-11-15T13:02:56+00:00",
+        "url": "https://www.reddit.com/r/logistics/comments/1grvuzl/3pl_question/",
+        "comments": [
+            {
+                "author": "Interesting_Bit_7950",
+                "body": "I can help",
+                "upvotes": 1,
+                "created_utc": "2024-11-15T13:36:53+00:00"
+            },
+            {
+                "author": "DwayneBaconStan",
+                "body": "Sent you a dm",
+                "upvotes": 1,
+                "created_utc": "2024-11-15T13:39:16+00:00"
+            }
+        ],
+        "_id": "6737567c0244eb994c1217eb"
+    },
+    {
+        "id": "1goyvia",
+        "title": "Need Suggestion regarding API integration and Warehouse Management Software",
+        "content": "Hello everyone, I recently joined a company as an assistant in the supply team. Our organization uses an in-house cloud system for management, but I find it quite basic and lacking features typical of modern warehouse/inventory management software. This has led to our team facing unnecessary daily challenges. The corporate office cannot replace the system since it's also in use at other locations. I\u2019m considering integrating an API between our in-house system and a modern warehouse management system to facilitate communication and data reconciliation. Additionally, we have various unused equipment, such as handheld mobile scanners, barcode printers, and wearable barcode scanners, which were ordered by a former employee but can't be integrated with our current system. I would appreciate suggestions on how to address this and recommendations for effective warehouse management/inventory tracking software to utilize our equipment. Thank you!",
+        "subreddit": "warehousing",
+        "author": "atomic_momo",
+        "upvotes": 2,
+        "category": "Just-In-Time Inventory",
+        "created_utc": "2024-11-11T18:12:58+00:00",
+        "url": "https://www.reddit.com/r/Warehousing/comments/1goyvia/need_suggestion_regarding_api_integration_and/",
+        "comments": [
+            {
+                "author": "TigerDude33",
+                "body": "I don't think ayone would recommend connecting a new WMS to your existing one.  I have never seen this done, and I've been doing this a long time.  You double your support effort, complicate troubleshooting, and have a completely non-standard interface.  You will also find that \"an API' will quickly turn into about 20 API's.  Could you do it?  Sure, it's just time and money.  But you'll never be happy with the results.  And if corporate won't let you replace it, they'll certainly not let you overlay something new on top of it.",
+                "upvotes": 1,
+                "created_utc": "2024-11-11T18:39:14+00:00"
+            },
+            {
+                "author": "realEVS",
+                "body": "Yes, don\u2019t do it, if your current system is unreliable, duplicating and running two in parallel will cause even more issues. \n\nOnly way I can think of is the new WMS will be in charge in your site (including integration of whatever hardware you have) and reporting only must have data (stock value for example) to the original WMS to satisfy whatever company/ business need. But it\u2019s crazy anyway and that\u2019s sounds more like you need to push for company wide change or in-house development of what you already have.",
+                "upvotes": 1,
+                "created_utc": "2024-11-11T21:29:05+00:00"
+            },
+            {
+                "author": "Old-House2772",
+                "body": "Inhouse .. sounds problematic.  \n\nWhile connecting one WMS to another isn't common, it is common to do very similar things.. eg it is typical for a WMS to be connected to a companys base  management system  eg SAP WM or EWM would connect on top of SAP ECC. Likewise you might connect subsystems on top of your WMS for controlling conveyors, voice picking etc.  If your base system is good enough, you could get someone in to assess and quote a voice system or similar to go on top.  All this tends to cost alot, so .. your scale and the size of the problem itself will determine whether it is worth the effort.  A half assed implementation is often worse than doing nothing.",
+                "upvotes": 1,
+                "created_utc": "2024-11-12T02:22:21+00:00"
+            },
+            {
+                "author": "Skittle_392",
+                "body": "Definitely don\u2019t put one on top of the other.   I been designing and architecting warehouses for over 15 years primarily now Blue Yonder and Korber WMS.   \n\nIf you can get the budget and get assistance on defining the project having one site get designed and can setup API to the other warehouses is doable.   But I would not do two WMS for the one site.  \n\nThen you can do a phase approach to bring the other facilities online. \n\nAnd with Korber over last few years their RF session can be ran via android or Apple Store app.   Or use a chrome browser to connect to a web RF session.",
+                "upvotes": 1,
+                "created_utc": "2024-11-13T05:06:26+00:00"
+            }
+        ],
+        "_id": "6737567c0244eb994c1217ec"
+    },
+    {
+        "id": "ftbkhp",
+        "title": "Mom and pop 3PL",
+        "content": "Given the current situation, many of my clients are asking if I can fulfill their orders. We collaborate with foreign companies that sell in our country, and they want to send their inventory to me for shipping since Amazon has halted inbound FBA shipments. I can handle this, but my shipping rates with the post office are not competitive with a Canadian 3PL. I prefer to keep this service in-house since they are my clients. Is it common to send my clients' inventory to a 3PL and then bill them for the cost, similar to a white label arrangement? One client, in particular, has about 200 units per month. I would appreciate any insights. Thanks.",
+        "subreddit": "3pl",
+        "author": "pittapatta1867",
+        "upvotes": 9,
+        "category": "Third-Party Logistics (3PL)",
+        "created_utc": "2020-04-01T23:51:22+00:00",
+        "url": "https://www.reddit.com/r/3PL/comments/ftbkhp/mom_and_pop_3pl/",
+        "comments": [
+            {
+                "author": "rspilly",
+                "body": "Yes, this is referred to 4PL. \n\nThe 3PL renders the service, and you mark it up or collect a commission. I do this all the time.",
+                "upvotes": 3,
+                "created_utc": "2020-06-06T00:08:08+00:00"
+            },
+            {
+                "author": "LogisticalSense",
+                "body": "If you\u2019re not at least using a parcel consolidation service, you should. It doesn\u2019t require the large volume that this type of service does with DHL/UPS/FedEx. Everything still ships USPS First Class International, but it just takes an extra day or two. We ship a lot of small, lightweight packages and our international shipping rates are less than domestic rates in most cases. \n\nHope this helps!",
+                "upvotes": 3,
+                "created_utc": "2020-04-02T04:40:23+00:00"
+            },
+            {
+                "author": "seedfs",
+                "body": "Yeah, I might be able to assist.  I own SEED Fulfillment ([seedfs.net](https://seedfs.net)).  You can resale our services and that is somewhat going on all of the time as a few large fulfillment companies utilize a network of smaller facilities and do not have any fulfillment centers on their own.  They sell fulfillment, but yet basically white label to other companies.   Are you in Canada or the US?  We're based in North Carolina.",
+                "upvotes": 2,
+                "created_utc": "2020-04-06T15:38:42+00:00"
+            },
+            {
+                "author": "UpperLogistics",
+                "body": "BOUTIQUE warehouse in MIAMI,FL offering:  \n\\#3PL #FULFILLMENT #WAREHOUSE #STORAGE #IMPORT #EXPORT #CUSTOMS  \nwww.upperlogistics.com",
+                "upvotes": 2,
+                "created_utc": "2023-05-11T20:44:25+00:00"
+            },
+            {
+                "author": "high_consideration88",
+                "body": "How do you find clients",
+                "upvotes": 2,
+                "created_utc": "2024-04-04T03:34:11+00:00"
+            }
+        ],
+        "_id": "6737567c0244eb994c1217ed"
+    },
+    {
+        "id": "1grwd1h",
+        "title": "Help me decide - SCM study to take",
+        "content": "Hi! I graduated from IE and have three years of experience as an inventory analyst in supply chain. My employer offers scholarships for further education, and I want to make the most of this opportunity. As far as I know, there\u2019s no bond requirement. I\u2019m seeking your opinions on what would be worthwhile for further studies. I'm not aiming for a promotion, but rather to upskill for long-term professional development and earning potential. Here are my considerations: 1. Time - A master's typically takes 2 years, while certifications/trainings take about 3-6 months. 2. Program Type: Master's in Engineering Management, SCM, or Finance; Certifications in Six Sigma Green/Black Belt, Data Analytics & Business Intelligence, or Demand Planning/Forecasting. 3. Format: Hybrid (onsite/virtual). 4. Potential capstone/project with my employer to apply what I've learned. Could you share your pros and cons? Any suggestions would be greatly appreciated!",
+        "subreddit": "supplychainlogistics",
+        "author": "nanamiiiiiiii",
+        "upvotes": 1,
+        "category": "Eco-Friendly",
+        "created_utc": "2024-11-15T13:29:43+00:00",
+        "url": "https://www.reddit.com/r/SupplyChainLogistics/comments/1grwd1h/help_me_decide_scm_study_to_take/",
+        "comments": [],
+        "_id": "6737567c0244eb994c1217ee"
+    },
+    {
+        "id": "1g0dr6f",
+        "title": "Descartes' 2024 Study: How Sustainable Delivery is Shaping Logistics \ud83d\ude9a",
+        "content": "Hello everyone! At Descartes, we've been examining trends in home delivery and just completed our 2024 Home Delivery Sustainability Study. Given the current logistics landscape and global economy, we investigated how consumer sustainability preferences impact last-mile delivery. Notably, 57% of consumers are interested in sustainable options, and 99% are willing to take further steps to lower their carbon footprint. However, 89% indicated that economic factors, like inflation, influence their ability to pay more for eco-friendly delivery. Additionally, 37% consider convenience and sustainability equally when selecting delivery options. A significant trend is the emergence of green delivery slots, which bundle multiple orders into fewer trips to lower emissions and costs, with 56% of respondents willing to adopt this practice. For last-mile providers, this could be a vital innovation for improving environmental impact and managing costs. What are your thoughts? How is the last-mile sector adapting to achieve sustainability while facing cost challenges? Are there new technologies or processes helping you find this balance? I'd love to hear your insights! \ud83d\ude4c If you're interested in exploring the full study, you can find it here:",
+        "subreddit": "lastmiledelivery",
+        "author": "RMTDescrates",
+        "upvotes": 2,
+        "category": "Eco-Friendly",
+        "created_utc": "2024-10-10T07:59:21+00:00",
+        "url": "https://www.reddit.com/r/LastMileDelivery/comments/1g0dr6f/descartes_2024_study_how_sustainable_delivery_is/",
+        "comments": [],
+        "_id": "6737567c0244eb994c1217ef"
+    },
+    {
+        "id": "1ex0n81",
+        "title": "Starting a Last Mile Delivery business, where's the best place to do networking and learn from other couriers about the business best practices?",
+        "content": "I'm launching a delivery business in San Antonio and want to connect with others nationwide to learn and improve my business model. Any tips and tricks are appreciated!",
+        "subreddit": "lastmiledelivery",
+        "author": "Beneficial-Lemon4546",
+        "upvotes": 3,
+        "category": "Last Mile Innovation",
+        "created_utc": "2024-08-20T16:51:18+00:00",
+        "url": "https://www.reddit.com/r/LastMileDelivery/comments/1ex0n81/starting_a_last_mile_delivery_business_wheres_the/",
+        "comments": [],
+        "_id": "6737567c0244eb994c1217f0"
+    }
+]

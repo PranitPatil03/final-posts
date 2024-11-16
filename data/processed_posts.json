@@ -1,34 +1,96 @@
 [
     {
+        "id": "1gs2bab",
+        "title": "Boss wants to get back on Prime",
+        "content": "We ship from the Northeast, handling 3,500-4,000 orders six days a week during peak season (April to June). These may include oversized or non-case shipments, so we would require someone to ship using our accounts. We aim to cover as much of Zone 4 as possible and are seeking a 3PL partner with a focus on the West (possibly Reno), Texas (like OKC), and the Southeast. Any suggestions?",
+        "subreddit": "logistics",
+        "author": "silver_sAUsAGes",
+        "upvotes": 3,
+        "category": "Third-Party Logistics (3PL)",
+        "created_utc": "2024-11-15T17:55:34+00:00",
+        "url": "https://www.reddit.com/r/logistics/comments/1gs2bab/boss_wants_to_get_back_on_prime/",
+        "comments": [
+            {
+                "author": "fleetwood96",
+                "body": "Followed up with a DM!",
+                "upvotes": 1,
+                "created_utc": "2024-11-15T18:05:42+00:00"
+            },
+            {
+                "author": "KEIGHWAR",
+                "body": "Dm\u2019d",
+                "upvotes": 1,
+                "created_utc": "2024-11-15T18:54:59+00:00"
+            },
+            {
+                "author": "Mirimirii",
+                "body": "If you are looking in Midwest, I can help",
+                "upvotes": 1,
+                "created_utc": "2024-11-15T21:58:33+00:00"
+            },
+            {
+                "author": "Comedy1010",
+                "body": "DM\u2019d. Based in reno. Warehouse, capacity, let me know!",
+                "upvotes": 1,
+                "created_utc": "2024-11-15T22:33:20+00:00"
+            },
+            {
+                "author": "RetroShip",
+                "body": "We have one location (AZ), but I own and operate Retroship.\n\nYou are welcome to use your own carriers or ours, whatever saves you the most in shipping (we have fantastic rates with UPS for larger shipments).",
+                "upvotes": 1,
+                "created_utc": "2024-11-15T23:55:08+00:00"
+            }
+        ],
+        "_id": "67385d48c429ce551fa7426e"
+    },
+    {
         "id": "1grvuzl",
         "title": "3PL Question",
-        "content": "I'm seeking a reputable 3PL company for my online clothing brand's e-commerce store. Ideally, they should be based in the US and offer international shipping. I typically have 200-1000 items across about 15-20 SKUs. My manufacturer will send the items in one shipment for them to store and ship as required. What are some recommended options?",
+        "content": "I need a reputable 3PL company for my online clothing brand. Ideally, it should be based in the US and offer international shipping. I typically have 200-1000 items with about 15-20 different SKUs. My manufacturer will send items in bulk for them to store and ship as required. What are some recommended options?",
         "subreddit": "logistics",
         "author": "InternationalSkin302",
-        "upvotes": 2,
+        "upvotes": 9,
         "category": "Third-Party Logistics (3PL)",
         "created_utc": "2024-11-15T13:02:56+00:00",
         "url": "https://www.reddit.com/r/logistics/comments/1grvuzl/3pl_question/",
         "comments": [
             {
-                "author": "Interesting_Bit_7950",
-                "body": "I can help",
-                "upvotes": 1,
-                "created_utc": "2024-11-15T13:36:53+00:00"
+                "author": "pleaseleevmealone",
+                "body": "Oh man, your poor DMs. \n\nThe biggest (most expensive) players in the game are Geodis and Radial. You are probably looking for a bit smaller based on your volume. 3PLs price based on storage, pick and pack, and shipping. In my experience ShipBob and Cart.com are hit and miss by location. Stord is a shitshow, but may be a good fit for a smaller brand like yours. They just bought some excellent pitney bowes facilities. Pick a provider based on proximity to your average customer, tour the facility and ask lots of questions about their processes. Good luck!",
+                "upvotes": 5,
+                "created_utc": "2024-11-15T16:10:06+00:00"
             },
             {
-                "author": "DwayneBaconStan",
-                "body": "Sent you a dm",
+                "author": "SHFJ4-4",
+                "body": "Warehut is probably your best option.",
+                "upvotes": 2,
+                "created_utc": "2024-11-16T03:11:34+00:00"
+            },
+            {
+                "author": "freightforwardus",
+                "body": "So what exactly are you looking for the 3PL to do? Warehousing, shipping, and international? Would the 3PL be doing pick and pack at the warehouse? Are these coming/going palletized? Couple different things to think about when searching for a 3PL",
                 "upvotes": 1,
-                "created_utc": "2024-11-15T13:39:16+00:00"
+                "created_utc": "2024-11-15T15:01:29+00:00"
+            },
+            {
+                "author": "dskot",
+                "body": "AMZ Worldwide",
+                "upvotes": 1,
+                "created_utc": "2024-11-15T19:03:55+00:00"
+            },
+            {
+                "author": "Tall_Category_304",
+                "body": "Austin? That you?",
+                "upvotes": 1,
+                "created_utc": "2024-11-15T21:32:40+00:00"
             }
         ],
-        "_id": "6737567c0244eb994c1217eb"
+        "_id": "67385d48c429ce551fa7426f"
     },
     {
         "id": "1goyvia",
         "title": "Need Suggestion regarding API integration and Warehouse Management Software",
-        "content": "Hello everyone, I recently joined a company as an assistant in the supply team. Our organization uses an in-house cloud system for management, but I find it quite basic and lacking features typical of modern warehouse/inventory management software. This has led to our team facing unnecessary daily challenges. The corporate office cannot replace the system since it's also in use at other locations. I\u2019m considering integrating an API between our in-house system and a modern warehouse management system to facilitate communication and data reconciliation. Additionally, we have various unused equipment, such as handheld mobile scanners, barcode printers, and wearable barcode scanners, which were ordered by a former employee but can't be integrated with our current system. I would appreciate suggestions on how to address this and recommendations for effective warehouse management/inventory tracking software to utilize our equipment. Thank you!",
+        "content": "Hi everyone, I've recently started as an assistant in the supply team at my new company. We use a basic in-house cloud system for management, which lacks features typical of modern warehouse and inventory software. This limitation puts pressure on our team as we deal with unnecessary daily issues. The corporate office can't replace the system since it's used by other locations. I'm considering integrating an API between our current system and a modern warehouse management solution to allow better communication and information reconciliation. Additionally, we have various unused equipment, such as Android handheld scanners and barcode printers, ordered by a previous employee, but they can't be integrated with our current system. I would appreciate any suggestions on how to address this and recommendations for effective warehouse management or inventory tracking software that could work with our equipment. Thank you!",
         "subreddit": "warehousing",
         "author": "atomic_momo",
         "upvotes": 2,
@@ -61,15 +123,15 @@
                 "created_utc": "2024-11-13T05:06:26+00:00"
             }
         ],
-        "_id": "6737567c0244eb994c1217ec"
+        "_id": "67385d48c429ce551fa74270"
     },
     {
         "id": "ftbkhp",
         "title": "Mom and pop 3PL",
-        "content": "Given the current situation, many of my clients are asking if I can fulfill their orders. We collaborate with foreign companies that sell in our country, and they want to send their inventory to me for shipping since Amazon has halted inbound FBA shipments. I can handle this, but my shipping rates with the post office are not competitive with a Canadian 3PL. I prefer to keep this service in-house since they are my clients. Is it common to send my clients' inventory to a 3PL and then bill them for the cost, similar to a white label arrangement? One client, in particular, has about 200 units per month. I would appreciate any insights. Thanks.",
+        "content": "Given the current situation, many of my clients are asking if I can fulfill their orders. We collaborate with foreign companies selling in our country, and they want to send their inventory for me to ship since Amazon has halted inbound FBA shipments. I can manage this, but my shipping rates with the post office are not competitive with a Canadian 3PL. I prefer to keep this service in-house for my clients. Is it common to send my clients' inventory to a 3PL and then bill them for the costs, similar to a white label arrangement? One client, in particular, ships about 200 units monthly. I would appreciate any insights. Thank you.",
         "subreddit": "3pl",
         "author": "pittapatta1867",
-        "upvotes": 9,
+        "upvotes": 8,
         "category": "Third-Party Logistics (3PL)",
         "created_utc": "2020-04-01T23:51:22+00:00",
         "url": "https://www.reddit.com/r/3PL/comments/ftbkhp/mom_and_pop_3pl/",
@@ -77,7 +139,7 @@
             {
                 "author": "rspilly",
                 "body": "Yes, this is referred to 4PL. \n\nThe 3PL renders the service, and you mark it up or collect a commission. I do this all the time.",
-                "upvotes": 3,
+                "upvotes": 5,
                 "created_utc": "2020-06-06T00:08:08+00:00"
             },
             {
@@ -105,12 +167,12 @@
                 "created_utc": "2024-04-04T03:34:11+00:00"
             }
         ],
-        "_id": "6737567c0244eb994c1217ed"
+        "_id": "67385d48c429ce551fa74271"
     },
     {
         "id": "1grwd1h",
         "title": "Help me decide - SCM study to take",
-        "content": "Hi! I graduated from IE and have three years of experience as an inventory analyst in supply chain. My employer offers scholarships for further education, and I want to make the most of this opportunity. As far as I know, there\u2019s no bond requirement. I\u2019m seeking your opinions on what would be worthwhile for further studies. I'm not aiming for a promotion, but rather to upskill for long-term professional development and earning potential. Here are my considerations: 1. Time - A master's typically takes 2 years, while certifications/trainings take about 3-6 months. 2. Program Type: Master's in Engineering Management, SCM, or Finance; Certifications in Six Sigma Green/Black Belt, Data Analytics & Business Intelligence, or Demand Planning/Forecasting. 3. Format: Hybrid (onsite/virtual). 4. Potential capstone/project with my employer to apply what I've learned. Could you share your pros and cons? Any suggestions would be greatly appreciated!",
+        "content": "Hello! I graduated from IE and have three years of experience as an inventory analyst in supply chain management. My current employer offers scholarships for further education, and I want to take advantage of this. As far as I know, there's no bond requirement. I'm seeking your opinions on what studies would be beneficial. I'm not aiming for a promotion, but I want to upskill for professional growth and future earning potential. Here are the factors I'm considering: 1. Time - a Master's typically takes two years, while certifications can take 3-6 months. 2. Type of Program: Master's in Engineering Management, SCM, or Finance; Certifications in Six Sigma, Data Analytics, or Demand Planning. 3. Format: Hybrid (onsite/virtual) 4. Possible capstone project with my employer to apply what I learn. Could you share your pros and cons? Any suggestions would be greatly appreciated!",
         "subreddit": "supplychainlogistics",
         "author": "nanamiiiiiiii",
         "upvotes": 1,
@@ -118,12 +180,12 @@
         "created_utc": "2024-11-15T13:29:43+00:00",
         "url": "https://www.reddit.com/r/SupplyChainLogistics/comments/1grwd1h/help_me_decide_scm_study_to_take/",
         "comments": [],
-        "_id": "6737567c0244eb994c1217ee"
+        "_id": "67385d48c429ce551fa74272"
     },
     {
         "id": "1g0dr6f",
         "title": "Descartes' 2024 Study: How Sustainable Delivery is Shaping Logistics \ud83d\ude9a",
-        "content": "Hello everyone! At Descartes, we've been examining trends in home delivery and just completed our 2024 Home Delivery Sustainability Study. Given the current logistics landscape and global economy, we investigated how consumer sustainability preferences impact last-mile delivery. Notably, 57% of consumers are interested in sustainable options, and 99% are willing to take further steps to lower their carbon footprint. However, 89% indicated that economic factors, like inflation, influence their ability to pay more for eco-friendly delivery. Additionally, 37% consider convenience and sustainability equally when selecting delivery options. A significant trend is the emergence of green delivery slots, which bundle multiple orders into fewer trips to lower emissions and costs, with 56% of respondents willing to adopt this practice. For last-mile providers, this could be a vital innovation for improving environmental impact and managing costs. What are your thoughts? How is the last-mile sector adapting to achieve sustainability while facing cost challenges? Are there new technologies or processes helping you find this balance? I'd love to hear your insights! \ud83d\ude4c If you're interested in exploring the full study, you can find it here:",
+        "content": "Hello everyone! At Descartes, we\u2019ve been researching trends in home delivery and just completed our 2024 Home Delivery Sustainability Study. Given the shifts in logistics and the global economy, we examined how consumer preferences for sustainability impact last-mile delivery. 57% of consumers seek sustainable delivery options, and an impressive 99% are willing to take further steps to lower their carbon footprint. However, 89% indicated that economic factors like inflation influence their ability to pay more for eco-friendly delivery. Additionally, 37% now evaluate convenience and sustainability equally when selecting delivery methods. A significant trend is the emergence of green delivery slots, which consolidate multiple orders into fewer trips to decrease emissions and costs; 56% of respondents are open to this approach. For last-mile providers, this could be a vital innovation for both environmental benefits and better cost management. What are your thoughts? How is the last-mile sector adapting to sustainability goals amid cost challenges? Are there any new technologies or processes aiding you in balancing both? We\u2019d love to hear your insights! \ud83d\ude4c If you\u2019re interested in the complete study, you can find it here:",
         "subreddit": "lastmiledelivery",
         "author": "RMTDescrates",
         "upvotes": 2,
@@ -131,12 +193,12 @@
         "created_utc": "2024-10-10T07:59:21+00:00",
         "url": "https://www.reddit.com/r/LastMileDelivery/comments/1g0dr6f/descartes_2024_study_how_sustainable_delivery_is/",
         "comments": [],
-        "_id": "6737567c0244eb994c1217ef"
+        "_id": "67385d48c429ce551fa74273"
     },
     {
         "id": "1ex0n81",
         "title": "Starting a Last Mile Delivery business, where's the best place to do networking and learn from other couriers about the business best practices?",
-        "content": "I'm launching a delivery business in San Antonio and want to connect with others nationwide to learn and improve my business model. Any tips and tricks are appreciated!",
+        "content": "I'm launching a delivery business in San Antonio and want to connect with people nationwide to learn from them and enhance my business model. Any tips and tricks are also appreciated!",
         "subreddit": "lastmiledelivery",
         "author": "Beneficial-Lemon4546",
         "upvotes": 3,
@@ -144,6 +206,19 @@
         "created_utc": "2024-08-20T16:51:18+00:00",
         "url": "https://www.reddit.com/r/LastMileDelivery/comments/1ex0n81/starting_a_last_mile_delivery_business_wheres_the/",
         "comments": [],
-        "_id": "6737567c0244eb994c1217f0"
+        "_id": "67385d48c429ce551fa74274"
+    },
+    {
+        "id": "1gsc9ry",
+        "title": " \"Dynamic Inventory Management System (IMS) in Excel\"",
+        "content": "Tired of complex inventory management? Streamline control and gain real-time insights with our advanced Inventory Management System (IMS) in Excel. Designed for modern businesses, our IMS provides a complete solution for efficient product tracking, easy updates, and valuable analytics. Key Features: \u2714\ufe0f Auto-generated and updated inventory ledger \u2714\ufe0f Search functionality \u2714\ufe0f Product add/edit feature \u2714\ufe0f On-hand inventory and stock take reports in PDF \u2714\ufe0f Dashboard insights \u2714\ufe0f User entry logs Why Choose Me: \u2714\ufe0f Over 4 years of experience in creating dynamic business management modules \u2714\ufe0f Certified Financial Consultant \u2714\ufe0f Accurate and actionable inventory models guaranteed \u2714\ufe0f Commitment to client deadlines and requirements \u2714\ufe0f 24/7 support Contact Me: Don't let inventory issues slow you down\u2014achieve efficiency, accuracy, and growth. Transform your inventory management with Dynamic IMS. I'm here to assist you at every step.",
+        "subreddit": "inventorymanagement",
+        "author": "MZG1988",
+        "upvotes": 1,
+        "category": "Just-In-Time Inventory",
+        "created_utc": "2024-11-16T01:29:53+00:00",
+        "url": "https://www.reddit.com/r/InventoryManagement/comments/1gsc9ry/dynamic_inventory_management_system_ims_in_excel/",
+        "comments": [],
+        "_id": "67385d48c429ce551fa74275"
     }
 ]

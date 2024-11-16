@@ -1,7 +1,7 @@
 import json
 from collections import Counter
 
-OUTPUT_FILE = "processed_posts_1.json"
+OUTPUT_FILE = "./data/cleaned_posts.json"
 
 def count_scraped_data(file_path):
     try:
